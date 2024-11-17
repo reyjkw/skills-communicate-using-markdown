@@ -14,8 +14,10 @@
 1. a
 1. b
 1. c
-- [x] 1
-- [ ] 2
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
 
 first|second
 -|-
