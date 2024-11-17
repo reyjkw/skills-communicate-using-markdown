@@ -22,7 +22,6 @@ first|second
 a|b
 b|a
 
-```
-codebox
-as
+``` javascript
+var myVar = "HelloWorld!";
 ```
